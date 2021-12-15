@@ -11,7 +11,7 @@
 
 <hr>
 
-<p style='left:20%'>
+<p align="center">
   
   
   
