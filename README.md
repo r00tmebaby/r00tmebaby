@@ -10,6 +10,6 @@
 - 📫 You can reach me via email: zgeorg01@gmail.com or skype: h0ctpagamyc
 - ⚡ Fun fact: I will never get hired as a software developper.
 
-
+<br>
 
 [![Zdravko GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tmebaby)](https://github.com/r00tmebaby)
