@@ -2,7 +2,7 @@
 
 <hr>
 
-- 🔭 I’m currently working A Business Documentation and Client Management System which is my Bsc in Computer Science final year project. 
+- 🔭 I’m currently working A Business Documentation and Client Management System which is my Bsc final year project. 
 - 🌱 I’m currently learning and working with Fast API and SQLAlchemy 
 - 👯 I’m looking to collaborate on any web project
 - 💬 Ask me about anything related to web programming. I will be more than happy to share my knowlidge
