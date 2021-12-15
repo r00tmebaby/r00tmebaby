@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my page, enjoy your day and make sure to star any project you use or fork😄
+### Hi there 👋, welcome to my page, enjoy your day and make sure to star any project you use 😄
 
 <hr>
 
