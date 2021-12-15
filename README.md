@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I will never get hired as a software developper.
 
 <hr class="alert bg-light">
-
+<p class="bg-primary">sdfgsdfg</p>
 
 
 [![Zdravko GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tmebaby)](https://github.com/r00tmebaby)
