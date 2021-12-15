@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 Welcome to my page, enjoy your day and make sure to star any project you use 😄
+### Hi there 👋 and welcome to my page, enjoy your day and make sure to star any project you use 😄
 
 <hr>
 
