@@ -9,7 +9,7 @@
 - 📫 You can reach me via email: zgeorg01@gmail.com or skype: h0ctpagamyc
 - ⚡ Fun fact: I will never get hired as a software developper.
 
-<hr>
+<hr style="color:red">
 
 
 
