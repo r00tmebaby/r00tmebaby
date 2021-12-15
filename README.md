@@ -1,7 +1,7 @@
 ### Hi there 👋, welcome to my page, enjoy your day and make sure to star any project you use or fork😄
 
 
-<hr>
+<br>
 
 - 🔭 I’m currently working on ZED Office (A Business Documentation and Client Management System) which is my Bsc in Computer Science - final year project. 
 - 🌱 I’m currently learning and working with Fast API and SQLAlchemy
