@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on A Business Documentation and Client Management System
 - 👯 I’m looking to collaborate on any web project
-- 📫 You can reach me via email: zgeorg01@gmail.com or skype: h0ctpagamyc
+- 📫 You can reach me via skype: h0ctpagamyc
 
 <hr>
 <br>
