@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on A Business Documentation and Client Management System <a href="https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System">click</a>
 - 👯 I’m looking to collaborate on any project
-- 📫 You can reach me via skype: h0ctpagamyc
+
 
 <hr>
 <br>
