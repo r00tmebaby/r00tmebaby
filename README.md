@@ -2,7 +2,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on Job Interview Problem Solver <a href="[https://github.com/r00tmebaby/A-Business-Documentation-and-Client-Management-System](https://github.com/r00tmebaby/CrackaTask)">click</a>
+- 🔭 I’m currently working on Job Interview Problem Solver <a href="https://github.com/r00tmebaby/CrackaTask">click</a>
 - 👯 I’m looking to collaborate on any project
 - 📫 You can reach me via LinkedIn: [LinkedIn](https://www.linkedin.com/in/zdravko-g-92a89287/)
 
