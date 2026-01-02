@@ -10,4 +10,3 @@
 <br>
 <br>
 
-![](https://raw.githubusercontent.com/r00tmebaby/github-stats/master/generated/overview.svg#gh-light-mode-only)
