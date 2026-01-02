@@ -10,4 +10,4 @@
 <br>
 <br>
 
-[![Zdravko GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tmebaby)](https://github.com/r00tmebaby)
+![](https://raw.githubusercontent.com/r00tmebaby/github-stats/master/generated/overview.svg#gh-light-mode-only)
