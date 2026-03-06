@@ -10,5 +10,5 @@
 <br>
 <br>
 
-[![r00tmebaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tmebaby)](https://github.com/r00tmebaby/github-readme-stats)
+[![r00tmebaby's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=r00tmebaby)](https://github.com/r00tmebaby/github-readme-stats-fast)
 
