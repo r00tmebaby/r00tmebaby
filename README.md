@@ -3,7 +3,7 @@
     <a href="https://github.com/r00tmebaby/github-readme-stats-fast">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=r00tmebaby&theme=github_dark">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=r00tmebaby" alt="r00tmebaby's GitHub stats" height="200">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=r00tmebaby" alt="r00tmebaby's GitHub stats" height="180">
     </picture>
   </a>
    &nbsp;
