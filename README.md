@@ -10,7 +10,7 @@
   <a href="https://gitranks.com/profile/r00tmebaby">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/r00tmebaby/profile-card.svg?theme=dark">
-      <img src="https://gitranks.com/badge/user/r00tmebaby/count-chart.svg?theme=light" alt="r00tmebaby on GitRanks" height="180" width="350">
+      <img src="https://gitranks.com/badge/user/r00tmebaby/count-chart.svg?theme=light" alt="r00tmebaby on GitRanks" height="180">
     </picture>
   </a>
 </p>
